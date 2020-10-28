@@ -1,0 +1,50 @@
+.Poster-flex{
+    display: flex;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    padding-bottom: 40px;
+    text-align: center;
+    margin-bottom: 60px;
+    
+}
+.Poster-flex > *{
+    width: 70px;
+    box-sizing: border-box;
+    min-height: 140px;
+    height: auto;
+    cursor: pointer;
+    margin: 5px auto;
+    
+}
+.Poster-heart{
+    cursor: pointer;
+}
+.filters-btn{
+    cursor: pointer;
+    background-color: white;
+    padding: 2px 5px;
+    border: none;
+    outline: none;
+    border:1px solid #eaeaea;
+    padding: 10px;
+}
+
+.drawer-scroll-cotainer{
+    height: calc(100vh - 60px);
+    overflow-y: auto;
+
+}
+.poster-select{
+    border:1px solid #eaeaea;
+    padding:  4px 0px; 
+    
+}
+
+.poster-select.MuiInput-underline:before {
+    border:none !important;
+}
+.Poster-content-inner{
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+}

@@ -1,0 +1,27 @@
+/* .filter-sidebar .MuiDrawer-paperAnchorLeft{
+    left: 280px !important;
+} */
+
+.drawer-item {
+    width: 20%;
+    flex-shrink: 0;
+    left: 0;
+    /* display: none; */
+}
+.drawer-item .MuiPaper-root{
+    top: 80px !important;
+    height: calc(100vh - 80px) !important;
+    overflow-y: scroll;
+    transform: translateX(0px) !important;
+}
+.drawer-item .MuiDrawer-paperAnchorLeft{
+    left: 20% !important;
+    /* transform: 280px !important; */
+    transition: position 225ms cubic-bezier(0, 0, 0.2, 1) 0ms !important;
+}
+.drawer-item .filters-heading{
+    font-size: 16px;
+    font-weight: 550;
+    text-align: left;
+    padding: 10px;
+}

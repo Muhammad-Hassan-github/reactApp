@@ -1,0 +1,64 @@
+{
+	"name": "client",
+	"version": "0.1.0",
+	"private": true,
+	"homepage": "https://postermuehle.de/bilderwaende/komponiere-deine-bilderwand",
+	"dependencies": {
+		"@material-ui/core": "^4.11.0",
+		"@material-ui/icons": "^4.9.1",
+		"@testing-library/jest-dom": "^4.2.4",
+		"@testing-library/react": "^9.5.0",
+		"@testing-library/user-event": "^7.2.1",
+		"antd": "^4.6.6",
+		"axios": "^0.20.0",
+		"cloudinary": "^1.23.0",
+		"cloudinary-core": "^2.11.3",
+		"cloudinary-react": "^1.6.7",
+		"clsx": "^1.1.1",
+		"dom-to-image": "^2.6.0",
+		"dom-to-image-improved": "^2.8.0",
+		"html-to-image": "^0.1.1",
+		"react": "^16.13.1",
+		"react-axios": "^2.0.3",
+		"react-beforeunload": "^2.2.4",
+		"react-dom": "^16.13.1",
+		"react-draggable": "^4.4.3",
+		"react-email-share-link": "^1.0.3",
+		"react-facebook-share-link": "^1.0.4",
+		"react-icons": "^3.11.0",
+		"react-loader-spinner": "^3.1.14",
+		"react-material-ui-carousel": "^1.8.3",
+		"react-multi-carousel": "^2.5.5",
+		"react-responsive-carousel": "^3.2.9",
+		"react-router-dom": "^5.2.0",
+		"react-scripts": "3.4.3",
+		"react-share": "^4.3.0",
+		"react-shorten-url": "^1.0.5",
+		"react-simple-share": "^0.1.2",
+		"react-toastify": "^6.0.8",
+		"react-twitter-share-link": "^1.2.1",
+		"reactstrap": "^8.6.0"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"proxy": "http://localhost:2000/",
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	}
+}

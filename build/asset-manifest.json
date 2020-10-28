@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bilderwaende/komponiere-deine-bilderwand/static/css/main.80b42514.chunk.css",
+    "main.js": "/bilderwaende/komponiere-deine-bilderwand/static/js/main.7f9fb9c9.chunk.js",
+    "main.js.map": "/bilderwaende/komponiere-deine-bilderwand/static/js/main.7f9fb9c9.chunk.js.map",
+    "runtime-main.js": "/bilderwaende/komponiere-deine-bilderwand/static/js/runtime-main.4131d07f.js",
+    "runtime-main.js.map": "/bilderwaende/komponiere-deine-bilderwand/static/js/runtime-main.4131d07f.js.map",
+    "static/css/2.688efe5e.chunk.css": "/bilderwaende/komponiere-deine-bilderwand/static/css/2.688efe5e.chunk.css",
+    "static/js/2.2188e32d.chunk.js": "/bilderwaende/komponiere-deine-bilderwand/static/js/2.2188e32d.chunk.js",
+    "static/js/2.2188e32d.chunk.js.map": "/bilderwaende/komponiere-deine-bilderwand/static/js/2.2188e32d.chunk.js.map",
+    "index.html": "/bilderwaende/komponiere-deine-bilderwand/index.html",
+    "precache-manifest.b85f26a7f8a8c98d7caf349b766182cd.js": "/bilderwaende/komponiere-deine-bilderwand/precache-manifest.b85f26a7f8a8c98d7caf349b766182cd.js",
+    "service-worker.js": "/bilderwaende/komponiere-deine-bilderwand/service-worker.js",
+    "static/css/2.688efe5e.chunk.css.map": "/bilderwaende/komponiere-deine-bilderwand/static/css/2.688efe5e.chunk.css.map",
+    "static/css/main.80b42514.chunk.css.map": "/bilderwaende/komponiere-deine-bilderwand/static/css/main.80b42514.chunk.css.map",
+    "static/js/2.2188e32d.chunk.js.LICENSE.txt": "/bilderwaende/komponiere-deine-bilderwand/static/js/2.2188e32d.chunk.js.LICENSE.txt",
+    "static/media/powerd.png": "/bilderwaende/komponiere-deine-bilderwand/static/media/powerd.110681b6.png",
+    "static/media/styles.css": "/bilderwaende/komponiere-deine-bilderwand/static/media/revicons.2feb69cc.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4131d07f.js",
+    "static/css/2.688efe5e.chunk.css",
+    "static/js/2.2188e32d.chunk.js",
+    "static/css/main.80b42514.chunk.css",
+    "static/js/main.7f9fb9c9.chunk.js"
+  ]
+}
